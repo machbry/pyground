@@ -1,3 +1,6 @@
 aiohttp
 aiofiles
 bs4
+jupyter
+pandas
+matplotlib
