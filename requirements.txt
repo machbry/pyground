@@ -4,3 +4,4 @@ bs4
 jupyter
 pandas
 matplotlib
+nltk
